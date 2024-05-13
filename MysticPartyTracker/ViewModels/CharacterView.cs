@@ -9,10 +9,10 @@ namespace MysticPartyTracker.ViewModels
     {
         public CharcterView()
         {
-
+            addCharcCommand = new Command(AddCharc);
         }
 
-        public ICommand AddCharc;
+        public ICommand addCharcCommand;
 
         [ObservableProperty]
         public string _name;
@@ -34,7 +34,7 @@ namespace MysticPartyTracker.ViewModels
         public void AddCharc()
         {
 
-            _character.Add(new Character(_name, _class, _race, _level));
+            _character.Add(new Character(Name, Class, Race, Level));
 
         }
 

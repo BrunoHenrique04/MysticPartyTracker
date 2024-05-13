@@ -31,11 +31,25 @@
             x:Name="Clas"
             Text="{Binding Class}"
             />
-        
+
+        <CollectionView ItemsSource="{Binding Characters}">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <VerticalStackLayout>
+                        <Label Text="{Binding Name}"/>
+                        <Label Text="{Binding Race}"/>
+                        <Label Text="{Binding Level}"/>
+                        <Label Text="{Binding Class}"/>
+                    </VerticalStackLayout>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
         <Button
             x:Name="AddCharc"
             Text="Adicionar Personagem"
-            Command=""
+            Command="{Binding addChracCommand}"
+           />
 
 
 
