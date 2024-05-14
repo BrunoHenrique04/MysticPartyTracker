@@ -5,14 +5,14 @@ using System.Windows.Input;
 
 namespace MysticPartyTracker.ViewModels
 {
-    public partial class CharcterView : ObservableObject
+    public partial class CharcterViewModel : ObservableObject
     {
-        public CharcterView()
+        public CharcterViewModel()
         {
             addCharcCommand = new Command(AddCharc);
         }
 
-        public ICommand addCharcCommand;
+        public ICommand addCharcCommand { get; }
 
         [ObservableProperty]
         public string _name;
