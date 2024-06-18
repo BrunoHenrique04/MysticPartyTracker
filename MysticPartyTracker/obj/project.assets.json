@@ -18,6 +18,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -2253,6 +2262,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -4492,6 +4510,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -6727,6 +6754,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -8966,6 +9002,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -11201,6 +11246,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -13440,6 +13494,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "GoogleGson/2.10.1.4": {
         "type": "package",
         "compile": {
@@ -15675,6 +15738,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "GoogleGson/2.10.1.4": {
@@ -17914,6 +17986,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -18363,6 +18444,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -18816,6 +18906,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -19265,6 +19364,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -19718,6 +19826,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -20167,6 +20284,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -20620,6 +20746,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21069,6 +21204,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -21522,6 +21666,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -21971,6 +22124,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -22424,6 +22586,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -22873,6 +23044,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -23326,6 +23506,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -23775,6 +23964,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -24228,6 +24426,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -24679,6 +24886,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -25128,6 +25344,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -25724,6 +25949,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -26288,6 +26522,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -26856,6 +27099,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -27420,6 +27672,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -27988,6 +28249,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -28554,6 +28824,15 @@
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
         }
       },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        }
+      },
       "Microsoft.Extensions.Configuration/8.0.0": {
         "type": "package",
         "dependencies": {
@@ -29118,6 +29397,15 @@
         },
         "build": {
           "buildTransitive/netstandard2.1/CommunityToolkit.Mvvm.targets": {}
+        }
+      },
+      "CuSharp.NVVMBinder/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/CuSharp.NVVMBinder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration/8.0.0": {
@@ -29706,6 +29994,18 @@
         "lib/netstandard2.1/CommunityToolkit.Mvvm.dll",
         "lib/netstandard2.1/CommunityToolkit.Mvvm.pdb",
         "lib/netstandard2.1/CommunityToolkit.Mvvm.xml"
+      ]
+    },
+    "CuSharp.NVVMBinder/1.0.0": {
+      "sha512": "45L3Y1kS+/CDVbkc7uyRLU1BDx1PinzHPb97pR7FyUjQbp4mpPrwQ3KhXpat2vzoz4VWEzML3fyhOz2ZcgTabQ==",
+      "type": "package",
+      "path": "cusharp.nvvmbinder/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cusharp.nvvmbinder.1.0.0.nupkg.sha512",
+        "cusharp.nvvmbinder.nuspec",
+        "lib/net6.0/CuSharp.NVVMBinder.dll"
       ]
     },
     "GoogleGson/2.10.1.4": {
@@ -33896,6 +34196,7 @@
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
       "CommunityToolkit.Mvvm >= 8.2.2",
+      "CuSharp.NVVMBinder >= 1.0.0",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
@@ -33904,6 +34205,7 @@
     ],
     "net8.0-ios17.0": [
       "CommunityToolkit.Mvvm >= 8.2.2",
+      "CuSharp.NVVMBinder >= 1.0.0",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
@@ -33912,6 +34214,7 @@
     ],
     "net8.0-maccatalyst17.0": [
       "CommunityToolkit.Mvvm >= 8.2.2",
+      "CuSharp.NVVMBinder >= 1.0.0",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
@@ -33920,6 +34223,7 @@
     ],
     "net8.0-windows10.0.19041": [
       "CommunityToolkit.Mvvm >= 8.2.2",
+      "CuSharp.NVVMBinder >= 1.0.0",
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
       "Microsoft.Maui.Controls >= 8.0.3",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.3",
@@ -33991,6 +34295,10 @@
             "target": "Package",
             "version": "[8.2.2, )"
           },
+          "CuSharp.NVVMBinder": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[8.0.0, )"
@@ -34041,6 +34349,10 @@
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.2.2, )"
+          },
+          "CuSharp.NVVMBinder": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
@@ -34093,6 +34405,10 @@
             "target": "Package",
             "version": "[8.2.2, )"
           },
+          "CuSharp.NVVMBinder": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",
             "version": "[8.0.0, )"
@@ -34144,6 +34460,10 @@
           "CommunityToolkit.Mvvm": {
             "target": "Package",
             "version": "[8.2.2, )"
+          },
+          "CuSharp.NVVMBinder": {
+            "target": "Package",
+            "version": "[1.0.0, )"
           },
           "Microsoft.Extensions.Logging.Debug": {
             "target": "Package",

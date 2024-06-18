@@ -5,8 +5,37 @@
              Title="SpellsView">
     <VerticalStackLayout>
         <Label 
-            Text="Welcome to .NET MAUI!"
+            Text="Listagens Magias!"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+
+        <VerticalStackLayout>
+            <CollectionView ItemsSource="{Binding Results}" EmptyView="Nenhuma Magia Identificada">
+                <CollectionView.ItemTemplate >
+                    <DataTemplate>
+                        <VerticalStackLayout>
+                            <Label 
+                              Text="{Binding Index}"
+                              />
+                            <Label 
+                              Text="{Binding Name}"
+                             />
+                            <Label
+                              Text="{Binding Level}"
+                               />
+                            <Label
+                             Text="{Binding Url}"
+                             />
+                        </VerticalStackLayout>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+            <Button
+            Text="Listar Magias"
+             Command="{Binding GetSpellsAsyncCommand}"
+             />
+        </VerticalStackLayout>
+
+
     </VerticalStackLayout>
 </ContentPage>
