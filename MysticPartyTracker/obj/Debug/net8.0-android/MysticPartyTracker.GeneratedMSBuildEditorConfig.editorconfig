@@ -57,3 +57,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = MysticPartyTracker.View.DiceView.xaml
 build_metadata.AdditionalFiles.TargetPath = View\DiceView.xaml
 build_metadata.AdditionalFiles.RelativePath = View\DiceView.xaml
+
+[D:/2DS -EVB/PAM/MysticPartyTracker/MysticPartyTracker/View/SpellsView.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MysticPartyTracker.View.SpellsView.xaml
+build_metadata.AdditionalFiles.TargetPath = View\SpellsView.xaml
+build_metadata.AdditionalFiles.RelativePath = View\SpellsView.xaml
